@@ -17,5 +17,5 @@ A simple 1-axis arm using planetary gearboxes, it uses a planetary reducer mecha
 
 
 
-<!--START_SECTION:BOM-TABLE-->
-<!--END_SECTION:BOM-TABLE-->
+!--START_SECTION:BOM-TABLE--
+!--END_SECTION:BOM-TABLE--
