@@ -1,0 +1,25 @@
+name: Aggiorna BOM nel README
+
+on:
+  push:
+    paths:
+      - 'BOM.csv'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clona repository
+        uses: actions/checkout@v4
+
+      - name: Converti CSV in Tabella Markdown
+        uses: petems/csv-to-markdown-table-action@master
+        with:
+          file: 'BOM.csv'
+          readme: 'README.md'
+          comment-tag: 'BOM-TABLE'
+
+      - name: Committa le modifiche
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Aggiorna automaticamente la tabella BOM nel README"
