@@ -4,9 +4,9 @@
 <!--START_SECTION:BOM-TABLE-->
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
 | :--- | :---: | :--- | :---: | :---: | :--- |
-| Grub Screw | 1 | aliexpress | $2.51 | $2.51 | [Link](https://it.aliexpress.com/item/1005008314083241.html?spm=a2g0o.cart.0.0.3c5438dacexhhO&mp=1&pdp_npi=6%40dis%21USD%21USD+2.66%21USD+2.51%21%21USD+2.51%21%21%21%40210384a717925019077262293e12ff%2112000044581590295%21ct%21IT%216215000935%21%211%210%21&gatewayAdapt=glo2ita) |
-| Nema17 Stepper Motor 17HS4401 TB6600 | 1 | aliexpress | $26.64 | $26.64 | [Link](https://it.aliexpress.com/item/1005007621917022.html?spm=a2g0o.cart.0.0.3c5438dacexhhO&mp=1&pdp_npi=6%40dis%21USD%21USD+27.30%21USD+26.64%21%21USD+26.64%21%21%21%40210384a717925019077262293e12ff%2112000060695836832%21ct%21IT%216215000935%21%211%210%21&gatewayAdapt=glo2ita) |
-| Estimated total shipping | 1 |  |  | $3.83 |  |
+| Grub Screw | 1 | aliexpress | $0.76 | $0.76 | [Link](https://it.aliexpress.com/item/1005006907252171.html?spm=a2g0o.cart.0.0.7a9838daal84O7&mp=1&pdp_npi=6%40dis%21USD%21USD+1.30%21USD+0.76%21%21USD+0.76%21%21%21%400b1585c117921608395221422e102b%2112000038677764913%21ct%21IT%216215000935%21%211%210%21&gatewayAdapt=glo2ita) |
+| Nema17 Stepper Motor 17HS4401 TB6600 | 1 | aliexpress | $20.17 | $20.17 | [Link](https://it.aliexpress.com/item/1005005754110340.html?spm=a2g0o.cart.0.0.7a9838daal84O7&mp=1&pdp_npi=6%40dis%21USD%21USD+32.53%21USD+19.52%21%21USD+19.52%21%21%21%400b1585c117921608395221422e102b%2112000034232219077%21ct%21IT%216215000935%21%211%210%21&gatewayAdapt=glo2ita) |
+| Estimated total shipping | 1 |  |  | $11.62 |  |
 <!--END_SECTION:BOM-TABLE-->
 
 
