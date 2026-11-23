@@ -4,7 +4,7 @@
 <!--START_SECTION:BOM-TABLE-->
 | Item | Qty | Supplier | Cost/item | Total Cost | Link |
 | :--- | :---: | :--- | :---: | :---: | :--- |
-| Stepper motor + TB6600(driver) + speed controller | 1 | aliexpress | $26 | 61 |  |
+| Stepper motor + TB6600(driver) + speed controller | 1 | aliexpress | $26.61 | $26.61 | [Link](https://www.aliexpress.com/item/1005007507121836.html) |
 | Estimated total shipping | 1 |  |  | $2 |  |
 <!--END_SECTION:BOM-TABLE-->
 
