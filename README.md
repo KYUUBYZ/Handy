@@ -14,6 +14,7 @@
 ---
 
 I'm planning to print its entirety with my *3d printer* (AD5X from Flashforge) in PLA and the belt in TPU.
+Everything fits together with screws and printed connectors.
 
 ## I see no microcontroller in there?
 Exactly, that's one of Handy's purpose: understanding how to drive a stepper motor without a microcontroller. I'm gonna use its driver: the TB6600, and a CNC controller/speed controller.
